@@ -1,0 +1,21 @@
+.description {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #747373;
+    margin: 30px;
+}
+
+#nom {
+    font-size: 25px;
+    line-height: 1.5;
+    color: #5a4e76;
+    margin: 20px;
+    font-weight: bolder;
+}
+
+#border {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border: 1px ridge rgb(230, 225, 225);
+}

@@ -1,0 +1,43 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+.list li {
+    padding: 17px 16px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+  
+h3{
+    
+color: rgb(70, 165, 111);
+    font-size: 24px;
+}
+
+h5{
+    
+    color: rgb(0, 0, 0);
+        font-size: 24px;
+    }
+
+.container{
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+
+a{
+ 
+   font-weight: 600;
+    
+}
+
+#im1{
+    border-radius: 0px;
+    height: 200px;
+    width: 400px;
+}

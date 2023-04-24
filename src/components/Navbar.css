@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c3b6b6;
+    color: #ffffff;
+    padding: 6px;
+  }
+
+  .nav-menu {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-menu li {
+    margin-left: 120px;
+    margin-top: 10px;
+  }
+  
+  .nav-menu li a {
+    text-decoration: dotted;
+    color: #747478;
+    font-weight: normal;
+  }
+  

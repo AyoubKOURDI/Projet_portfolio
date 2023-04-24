@@ -1,0 +1,28 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+.list li {
+    padding: 6px 16px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+  }
+  
+h3{
+font-size: 23px;
+}
+
+h4{
+    
+color: rgb(82, 134, 126);
+    font-size: 17px;
+}
+.container{
+ 
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
